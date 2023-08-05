@@ -157,6 +157,6 @@ No known bugs at this time.
 Favour Ocheja <favourocheja@gmail.com>
 Samuel John <Samueljohn3999@gmail.com>
 Steve Ojata <steveojata54@gmail.com>
-Luka Annoy
+Luka Annong
 ## License:
 Public Domain. No copy write protection. 
